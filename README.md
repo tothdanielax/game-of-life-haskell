@@ -4,13 +4,6 @@ Implementation of Conway's Game of Life in Haskell.
 <h1> Feladat leírás </h1>
 
 <h2>Életjáték</h2>
-<p>A feladatok egymásra épülnek, ezért érdemes a leírás
-sorrendjében megoldani őket! A függvények definíciójában lehet, sőt javasolt
-is alkalmazni a korábban definiált függvényeket.</p>
-<p><em>Tekintve, hogy a tesztesetek, bár odafigyelés mellett íródnak, nem
-fedik le minden esetben a függvény teljes működését, határozottan
-javasolt még külön próbálgatni a megoldásokat beadás előtt!</em></p>
-<h2>A feladat összefoglaló leírása</h2>
 <p>Az életjáték (,,the game of life'') egy speciális sejtautomata, amit John
 Conway angol matematikus fejlesztett ki 1970-ben. Rengeteg különböző változata
 létezik, a következőkben leírt variáns a klasszikusnak számító változat.</p>
