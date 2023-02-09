@@ -3,7 +3,7 @@ Implementation of Conway's Game of Life in Haskell.
 
 <h1> Feladat leírás </h1>
 
-<div class="col-md-9"><div class="MarkdownRenderer_markdownRenderer__mTccV"><h2>Életjáték</h2>
+<h2>Életjáték</h2>
 <p>A feladatok egymásra épülnek, ezért érdemes a leírás
 sorrendjében megoldani őket! A függvények definíciójában lehet, sőt javasolt
 is alkalmazni a korábban definiált függvényeket.</p>
@@ -343,4 +343,4 @@ isSpaceShip five6P6H1V0  7 == Just (-1,0)
 isSpaceShip one19P4H1V0 4 == Just (0,-1)
 isSpaceShip one19P4H1V0 3 == Nothing
 isSpaceShip corderShip 96 == Just (-8,-8)
-</code></pre></div></div>
+</code></pre>
